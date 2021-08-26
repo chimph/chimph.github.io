@@ -357,7 +357,7 @@ h4 {
   margin-top: 0.5em;
 }
 .blog-posts ~ .blog-posts {
-  border-top: 1px dotted rgba(0, 0, 0, 0.1);
+  border-top: 1px dotted rgba(0, 0, 0, 0.3);
   margin-top: 3em;
   padding-top: 3em;
 }
@@ -401,7 +401,7 @@ h4 {
   margin: 2em -2% 2em 2em;
 }
 .post-aside {
-  background-color: rgba(0, 0, 0, 0.01);
+  background-color: rgba(0, 0, 0, 0.05);
   float: right;
   margin: 0 0 2em 2em;
   padding: 2em;
